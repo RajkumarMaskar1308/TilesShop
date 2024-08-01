@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Frm_Add_New_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Regular_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Customer_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Add_New_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Add_New_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Add_New_Subcategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Add_New_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Customer_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Dead_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Invoice_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Product_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Purchase_Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Purchase_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Quotation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Quotation_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Remaining_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Tiles_APP_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
